@@ -1,0 +1,10 @@
+{
+  "id": 14,
+  "cnpj": "string",
+  "nome": "string",
+  "telefone": "string",
+  "estado": "string",
+  "endereço": "string",
+  "bairro": "string",
+  "cidade": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "id": 10,
+  "descricao": "string",
+  "inicioJornada": "string",
+  "fimJornada": "string",
+  "usuario": null
+}

@@ -1,0 +1,9 @@
+{
+  "id": 9,
+  "nome": "string",
+  "idade": "string",
+  "whatsApp": "string",
+  "cpf": "string",
+  "jornadaTrabalho": null,
+  "empresa": null
+}

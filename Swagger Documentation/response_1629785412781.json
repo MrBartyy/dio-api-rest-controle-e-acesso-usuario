@@ -1,0 +1,16 @@
+[
+  {
+    "id": 10,
+    "descricao": "string",
+    "inicioJornada": "string",
+    "fimJornada": "string",
+    "usuario": []
+  },
+  {
+    "id": 11,
+    "descricao": "string",
+    "inicioJornada": "string",
+    "fimJornada": "string",
+    "usuario": []
+  }
+]

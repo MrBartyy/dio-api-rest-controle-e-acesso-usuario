@@ -1,0 +1,22 @@
+[
+  {
+    "id": 7,
+    "cnpj": "string",
+    "nome": "string",
+    "telefone": "string",
+    "estado": "string",
+    "endereço": "string",
+    "bairro": "string",
+    "cidade": "string"
+  },
+  {
+    "id": 12,
+    "cnpj": "string",
+    "nome": "string",
+    "telefone": "string",
+    "estado": "string",
+    "endereço": "string",
+    "bairro": "string",
+    "cidade": "string"
+  }
+]
